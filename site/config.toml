@@ -1,7 +1,9 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-title = "Homepage"
+defaultContentLanguage = "ja"
+languageCode = "ja-jp"
+languageLang = "jp"
+title = "かぶつむ.com"
+author = "tk"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
